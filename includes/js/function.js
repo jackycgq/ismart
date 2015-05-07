@@ -1,14 +1,14 @@
 /**
- * Function Javascript of Tinection WordPress Theme
+ * Function Javascript of iSmartStudio WordPress Theme
  *
- * @package   Tinection
- * @version   1.1.7
+ * @package   iSmartStudio
+ * @version   1.2.0
  * @date      2015.3.6
- * @author    Zhiyan <chinash2010@gmail.com>
- * @site      Zhiyanblog <www.zhiyanblog.com>
- * @copyright Copyright (c) 2014-2015, Zhiyan
+ * @author    iSmartStudio <jacky@iSmartStudio.com>
+ * @site      iSmartStudio <www.iSmartStudio.com>
+ * @copyright Copyright (c) 2014-2015, iSmartStudio
  * @license   http://opensource.org/licenses/gpl-2.0.php GPL v2 or later
- * @link      http://www.zhiyanblog.com/tinection.html
+ * @link      http://www.iSmartStudio.com
 **/
 
 /* Lazyload */
